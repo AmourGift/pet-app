@@ -1,0 +1,6 @@
+{
+  "name": "Pet Care Management System",
+  "description": "A comprehensive dashboard to manage pet profiles, schedule grooming, track vaccinations, log daily activities, and generate emergency QR codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
